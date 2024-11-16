@@ -10,3 +10,10 @@ add env
 
 cd muzer
 npm install
+
+
+Demo 
+
+env 
+GOOGLE_CLIENT_ID=  " "
+GOOGLE_CLIENT_SECRET = " "
